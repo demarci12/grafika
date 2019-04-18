@@ -28,6 +28,7 @@ const char *fragmentSource = R"(
 		float  shininess;
 		vec3 F0;
 		int rough, reflective;
+
 	};
 
 	struct Light {
